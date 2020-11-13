@@ -52,7 +52,9 @@ The video tutorial then explains how to retrieve an API key from the [Gantree fr
 
 ## Resources & Notes
 Additional work:
-- Integrate with a local node to access more functions and metrics (using the CLI sub commands)
+- [x] Integrate with a local node to access more functions and metrics (using the CLI sub commands)
+- [ ] Implement `./conflux rpc local net session` for CLI sub commands
+- [ ] Support additional OS (test on Mac, support Windows) for local node metrics
 
 Useful links:
 - Conflux commands accessible by JSON-RPC (remote node): https://developer.conflux-chain.org/docs/conflux-doc/docs/json_rpc
